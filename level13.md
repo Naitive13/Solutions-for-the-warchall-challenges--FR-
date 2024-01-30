@@ -6,7 +6,7 @@
 
 - Dans ce dossier, il y a un code en langage C appelé  <i style = 'color:#15fbaf'>tryouts.c</i> et sa version compilé <i><b style = 'color:#f05ddf'>tryouts</b></i>.  Il y a bien évidemment un fichier ***solution.txt*** dont nous n'avons pas accès. On ne peut malheureusement pas regarder le code source du programme, mais lorsqu'on le lance, on comprend tout de suite en quoi il consiste.
 
-- <i style = 'color:#15fbaf'>tryouts.c</i> nous de demande de deviner un nombre aléatoire générer à l'aide de `/dev/urandom`. Cependant, on ne peut pas acceder à `/dev/urandom`, ce qui fait que deviner les nombres aléatoires qu'il génère est presque impossible. 
+- <i style = 'color:#15fbaf'>tryouts.c</i> nous de demande de deviner un nombre aléatoire généré à l'aide de `/dev/urandom`. Cependant, on ne peut pas acceder à `/dev/urandom`, ce qui fait que deviner les nombres aléatoires qu'il génère est presque impossible. 
 
 #### *Afin de trouver le flag, j'ai décidé d'utiliser une autre approche un peu plus difficile.*
 
